@@ -313,6 +313,8 @@ img {
   min-height: 1rem;
   letter-spacing: .05rem;
 }
+
+/*
 .filter ul li {
   padding: .5rem;
 }
@@ -327,6 +329,7 @@ li a.nav-link.filter:hover {
 a.nav-link.filter {
   padding-left: 1rem;
 }
+*/
 
 /*-- Project Gallery Layout --*/
 .element-item {

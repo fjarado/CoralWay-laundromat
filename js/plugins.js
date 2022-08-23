@@ -187,12 +187,11 @@ $('#navbarProjects .nav-link').on('click', function () {
 
 
 /*========== PROJECTS GALLERY FILTER (ISOTOPE) INITIALIZATION ==========*/
-var $grid = $('.grid').isotope({
+  /* var $grid = $('.grid').isotope({
    filter: '.web-design',
    itemSelector: '.element-item',
    layoutMode: 'fitRows'
-});
-
+}); */
 
 /*========== PREVENTS "SCROLL TO ZOOM" MAP MESSAGE (NOTE: DISABLES MOBILE MAP SCROLLING) ==========*/
 $(document).ready(function () { //when document(DOM) loads completely.
