@@ -1,5 +1,5 @@
 DOMAIN NAME:
-master-wash.com
+masterwash.org
 
 Name: Mulet
 Lastname: International
@@ -7,4 +7,7 @@ Lastname: International
 mymasterwash@gmail.com
 
 $Master2022
+
+Total
+$166.09
 
