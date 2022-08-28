@@ -1,7 +1,10 @@
 DOMAIN NAME:
 master-wash.com
 
-DOMAIN NAME G-MAIL:
-master_wash@gmail.com
+Name: Mulet
+Lastname: International
 
-Pass: $Master2022
+mymasterwash@gmail.com
+
+$Master2022
+
