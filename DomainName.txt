@@ -4,10 +4,7 @@ masterwash.org
 Name: Mulet
 Lastname: International
 
-mymasterwash@gmail.com
+E-MAIL: mymasterwash@gmail.com
+PASSWORD: $Master2022
 
-$Master2022
-
-Total
-$166.09
 
